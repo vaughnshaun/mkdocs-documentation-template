@@ -13,6 +13,8 @@ theme:
     - navigation.tabs.sticky
     - navigation.top
     - navigation.sections
+markdown_extensions:
+  - attr_list
 nav:
   - Home:
     - Welcome: index.md
