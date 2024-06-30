@@ -1,3 +1,3 @@
-AZ-900 is a fundamental Azure certification. the course covers all the basic Azure services. this includes compute, data, networking, and security.
+AZ-900 is a fundamental Azure certification. the course covers all the basic Azure services. This includes compute, data, networking, and security.
 
-In addition to services, administration, governance, and shared responsibility will be covered. This is a great certification for business and developers. Developers wanting more in-depth knowledge should study AZ-104. AZ-900 is great for beginning any Azure journey. 
+In addition, services, administration, governance, and shared responsibility will be covered. This is a great certification for business and developers. Developers wanting more in-depth knowledge should study AZ-104. AZ-900 is great for beginning any Azure journey. 
