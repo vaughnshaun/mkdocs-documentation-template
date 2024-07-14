@@ -23,6 +23,9 @@ nav:
     - Certifications:
       - Az-900:
         - Overview: azure/certifications/az-900/overview.md
-        - Cloud Concepts: azure/certifications/az-900/cloud-concepts.md
+        - Cloud Concepts: 
+          - Overview: azure/certifications/az-900/cloud-concepts/overview.md
+          - Cloud Computing: azure/certifications/az-900/cloud-concepts/cloud-computing.md
+        - Glossary: azure/certifications/az-900/glossary.md
       - Az-104:
         - Overview: azure/certifications/az-104/overview.md
